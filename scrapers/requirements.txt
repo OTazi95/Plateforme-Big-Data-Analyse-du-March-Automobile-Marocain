@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+scrapy
+kafka-python
+boto3
+pandas
+langdetect
+fake-useragent
